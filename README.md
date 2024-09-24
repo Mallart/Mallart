@@ -31,7 +31,7 @@
 </div>
 <br><br>
 
-- At the moment, I'm working on a **small game engine**, programmed in C++ using SFML and OpenGL. Once this will be done.
+- At the moment, I'm working on a **small game engine**, programmed in C++ using SFML and OpenGL.
 - When that will be finished, I'll resume my work on a **modular assembly compiler**, programmed in C. Once this will be done, I'll be working on an IDE programmed in C too using GTK.
 - Note: Only a few of my projects are public. Hence, most languages I use on a weekly basis don't appear as most used. I'll be working on publishing more projects soon.
 - Some of my public projects aren't completed, but are still public because they got interesting notions tools or whatever. When a project isn't finished, it will be said so in the Readme.md file.
